@@ -1,4 +1,4 @@
-FROM gcr.io/cloud-tagging-10302018/tagserver:stable
+FROM  gcr.io/cloud-tagging-10302018/gtm-cloud-image:4.0.0
 
 EXPOSE 8080
 
